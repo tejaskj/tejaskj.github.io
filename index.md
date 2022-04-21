@@ -1,13 +1,20 @@
-## Welcome to GitHub Pages
+## Tejas Kumar Jaiswal
 
-You can use the [editor on GitHub](https://github.com/tejaskj/tejaskj.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This is my personal web page (like I am a 90s dude!). I work as a software engineer in one of world's leading consultancy firms. I work mostly with Python, which is my favorite language but I am not a language specific person. I consider myself a **Problem Solver**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [My other github repo](https://github.com/tejas-kr)
+- [My personal blog 1](https://hardcodepost.medium.com/)
+- [My personal blog 2](https://teachmecodingsenpai.wordpress.com/) 
+- [Download my CV](/TejasCV.pdf)
+
+
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+
+<!---
 ```markdown
 Syntax highlighted code block
 
@@ -25,13 +32,4 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tejaskj/tejaskj.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+--->
