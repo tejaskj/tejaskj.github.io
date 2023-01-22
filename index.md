@@ -1,6 +1,6 @@
 ## Tejas Kumar Jaiswal
 
-This is my personal web page (like I am a 90s dude!). I work as a software engineer in one of world's leading consultancy firms. I work mostly with Python, which is my favorite language but I am not a language specific person. I consider myself a **Problem Solver**
+I work as a software engineer. I work mostly with Python, which is my favorite language but I am not a language specific person. I consider myself a **Problem Solver**
 
 - [My other github repo](https://github.com/tejas-kr)
 - [My personal blog 1](https://hardcodepost.medium.com/)
