@@ -5,7 +5,7 @@ I work as a software engineer. I work mostly with Python, which is my favorite l
 - [My other github repo](https://github.com/tejas-kr)
 - [My personal blog 1](https://hardcodepost.medium.com/)
 - [My personal blog 2](https://teachmecodingsenpai.wordpress.com/) 
-- [Download my CV](/TejasCV.pdf)
+- [Download my CV](/Resume_new_Tejas.pdf)
 
 
 
